@@ -29,7 +29,7 @@ CSS3
 
 JavaScript (Vanilla)
 
-📷 [Demo ]([https://codepen.io/icecoffie/pen/LEYKYmR](https://codepen.io/icecoffie/full/LEYKYmR))
+📷 [Demo ]([https://codepen.io/icecoffie/pen/LEYKYmR](https://codepen.io/icecoffie/full/LEYKYmR])
 "Speed Typer - where every second counts!"
 
 
